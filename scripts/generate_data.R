@@ -13,7 +13,7 @@ b <- runif(1,0,100)
 y <- a*x + b 
 
 # Add some noise
-sigma <- 10 * a
+sigma <- 30 * a
 y <- y + rnorm(length(y), 0, sigma)
 
 # Generate dataframe
