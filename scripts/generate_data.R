@@ -21,5 +21,5 @@ my_data <- data.frame(x = x, y = y)
 
 # Save data
 write.csv(my_data,file = "data/my_data.csv", row.names = F)
-print('hello from castasegnaaaaaaaaaa')
+print('hello from johanna')
 ### End of file
